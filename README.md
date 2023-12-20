@@ -23,3 +23,8 @@ The purpose of this project is to learn and understand how to train a deep learn
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## TODO
+- Prettify repo
+- Rework documentation
+- Add how2install guide
